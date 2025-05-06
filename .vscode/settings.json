@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "fstream": "c"
+        "fstream": "c",
+        "string.h": "c",
+        "wait.h": "c",
+        "stdio.h": "c"
     }
 }
